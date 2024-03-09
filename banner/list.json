@@ -1,6 +1,6 @@
 {
     "name": "Neonnexus Banners",
-    "tokens": [
+    "list": [
       {
         "chainId": [570,57000],
         "title": "banner1",

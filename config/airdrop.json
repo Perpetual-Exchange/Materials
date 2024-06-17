@@ -7,6 +7,7 @@
     "LiquidityRate": 0.000011574074074074073,
     "ReferralRate": 1,
     "ProfitRate": 0.1,
+    "SwapRate": 4,
     "user": [
         "0x17c1b4F4F28C84F4C2CCA2Ed672CD8cE9E590407",
         "0x626aba32e69Df9a2d4A4Db1ad7E9C74c513326Ca",
@@ -20,6 +21,6 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
